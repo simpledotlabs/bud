@@ -1,4 +1,5 @@
 ![First draft of the final product](./docs/img/bud.png)
+<p align="center">This just the first draft, I've made it in Blender in less than a hour</p>
 Might not be the best piece of hardware/software in the world, but it will work!
 
 
