@@ -11,7 +11,7 @@ Table of contents
 
 What is bud?
 ------
-[bud](https://github.com/simpledotlabs/bud) is an open source bussiness assistant. The major ideia of the project is that you, as a very occupied person, use bud to make things easier, while you use your energy
+[bud](https://github.com/simpledotlabs/bud) is an open source bussiness assistant. The major ideia of the project is that you, as a very occupied person, use bud to make things easier. While you use your energy
 to work in more complex tasks, bud will handle the boring tasks like making a report or a sheet.
 
 
